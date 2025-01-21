@@ -1,3 +1,5 @@
 # serve-tp
-axel dolores
-javier alejandro
+# participantes del grupo:
+#  axel aaron dolores camposano
+#  javier alejandro
+#  camilo andres rodriguez
